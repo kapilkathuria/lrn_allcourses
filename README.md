@@ -10,9 +10,9 @@ details of al courses done
 |Nodejs api | Swagger | Done | https://www.udemy.com/course/nodejs-api-development-with-swagger  | https://github.com/kapilkathuria/lrn_swagger | |
 | Nodejs api | REST API Concepts, Design best practices, Security practices, Swagger 2.0/OAI | Done | https://www.udemy.com/course/rest-api/learn/ | | |
 | Nodejs api | entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver), Server-side website rendering with Pug | WIP | https://www.udemy.com/course/nodejs-express-mongodb-bootcamp | https://github.com/kapilkathuria/lrn_nodejs-api | |
-| Nodejs api | Microservices |https://www.udemy.com/course/microservices-with-node-js-and-react | https://github.com/kapilkathuria/lrn-microservices | |
+| Nodejs api | Microservices | Not Completed | https://www.udemy.com/course/microservices-with-node-js-and-react | https://github.com/kapilkathuria/lrn-microservices | |
 |--- |--- |--- |--- |--- |--- |
-| Nodejs UI |ReactJs with Redux| https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/ |https://github.com/kapilkathuria/lrn_react|||
+| Nodejs UI |ReactJs with Redux| Not Completed | https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/ |https://github.com/kapilkathuria/lrn_react|
 | Nodejs UI | Electorn | Not Completed| https://www.udemy.com/course/electron-react-tutorial/learn/ | https://github.com/kapilkathuria/lrn_electron| |
 |--- |--- |--- |--- |--- |--- |
 | Devops | Git source control step-by-step | Done | https://www.udemy.com/course/git-complete/learn/ | | | 
