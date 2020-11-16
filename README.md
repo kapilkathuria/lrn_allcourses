@@ -13,8 +13,10 @@ details of al courses done
 | Nodejs api | REST API Concepts, Design best practices, Security practices, Swagger 2.0/OAI | Done | [rest-api](https://www.udemy.com/course/rest-api/learn/) | | 1st two courses covers everything, this  shouldn't be needed |
 |--- |--- |--- |--- |--- |--- |
 | Nodejs UI |ReactJs with Redux| Not Completed | [react-dev](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) |[lrn_react](https://github.com/kapilkathuria/lrn_react)|
+| Nodejs UI |Material UI| Not Started | [material-ui](https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/learn/) | |
 | Nodejs UI | Electorn | Not Completed| [electron-react](https://www.udemy.com/course/electron-react-tutorial) | [lrn_electron](https://github.com/kapilkathuria/lrn_electron)| |
 |--- |--- |--- |--- |--- |--- |
 | Devops | Git source control step-by-step | Done | [git-complete](https://www.udemy.com/course/git-complete) | | | 
-| Devops | Docker | Not completed |  | [lrn_docker](https://github.com/kapilkathuria/lrn_docker) | |
+| Devops | Git Expert | Not Completed | [git-complete](https://www.udemy.com/course/github-ultimate/learn/) | | | 
+| Devops | Docker | Not completed | [docker-and-kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/) | [lrn_docker](https://github.com/kapilkathuria/lrn_docker) | |
 | Devops | Shell | Done| | [lrn_shell](https://github.com/kapilkathuria/lrn_shell) | | 
