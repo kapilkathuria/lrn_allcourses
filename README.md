@@ -3,8 +3,8 @@ details of al courses done
 
 | Category| Course | Status | URL | github link | Comment | 
 |--- |--- |--- |--- |--- |--- |
-|Machine Learning| H2O | Done | | https://github.com/kapilkathuria/lrn_h2o | |
-| Machine Learning  | Text Mining | Done |https://www.coursera.org/learn/python-text-mining | https://github.com/kapilkathuria/lrn_textmining||
+|Machine Learning| H2O | Done | | [lrn_h2o](https://github.com/kapilkathuria/lrn_h2o) | |
+| Machine Learning  | Text Mining | Done | [python-text-mining](https://www.coursera.org/learn/python-text-mining) | [lrn_textmining](https://github.com/kapilkathuria/lrn_textmining)||
 |--- |--- |--- |--- |--- |--- |
 |Nodejs api | MVC Rest API with Node.js, Express & MongoDB. Secure with JWT, document API with Swagger, Mongoose ODM  | Done | https://www.udemy.com/course/nodejs-rest-api-jwt-security-mongodb-complete-guide  | https://github.com/kapilkathuria/lrn_jwt | |
 |Nodejs api | Swagger | Done | https://www.udemy.com/course/nodejs-api-development-with-swagger  | https://github.com/kapilkathuria/lrn_swagger | |
