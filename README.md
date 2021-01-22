@@ -5,6 +5,7 @@ details of al courses done
 |--- |--- |--- |--- |--- |--- |
 |Machine Learning| H2O | Done | | [lrn_h2o](https://github.com/kapilkathuria/lrn_h2o) | |
 | Machine Learning  | Text Mining | Done | [python-text-mining](https://www.coursera.org/learn/python-text-mining) | [lrn_textmining](https://github.com/kapilkathuria/lrn_textmining)||
+| Devops | Regex | WIP| | [lrn_regex](https://github.com/kapilkathuria/lrn_regex) | | 
 |--- |--- |--- |--- |--- |--- |
 |Nodejs api | MVC Rest API with Node.js, Express & MongoDB. Secure with JWT, document API with Swagger, Mongoose ODM  | Done | [nodejs-rest-api-jwt-mongodb](https://www.udemy.com/course/nodejs-rest-api-jwt-security-mongodb-complete-guide)  | [lrn_jwt](https://github.com/kapilkathuria/lrn_jwt) | Good Course. Good one to start with |
 | Nodejs api | entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver), Server-side website rendering with Pug | WIP | [nodejs-express-mongodb](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp) | [lrn_nodejs-api](https://github.com/kapilkathuria/lrn_nodejs-api) | this is expected to be more detailed than above. this can be done only if needed after above is done|
