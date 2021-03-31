@@ -7,7 +7,7 @@ details of al courses done
 | Machine Learning  | Text Mining | Done | [python-text-mining](https://www.coursera.org/learn/python-text-mining) | [lrn_textmining](https://github.com/kapilkathuria/lrn_textmining)||
 | Machine Learning | Regex | Not Completed| | [lrn_regex](https://github.com/kapilkathuria/lrn_regex) | | 
 | Machine Learning | Python | Not Completed| [complete-python-bootcamp](https://www.udemy.com/course/complete-python-bootcamp) | [lrn_python](https://github.com/kapilkathuria/lrn_python) | | 
-| Knowledge modelling | Python | WIP| [practical-knowledge-modelling](https://www.udemy.com/course/practical-knowledge-modelling) | [lrn_ontology_modelling](https://github.com/kapilkathuria/lrn_ontology_modelling) | | 
+| Machine Learning | Knowledge modelling | WIP| [practical-knowledge-modelling](https://www.udemy.com/course/practical-knowledge-modelling) | [lrn_ontology_modelling](https://github.com/kapilkathuria/lrn_ontology_modelling) | | 
 |--- |--- |--- |--- |--- |--- |
 |Nodejs api | MVC Rest API with Node.js, Express & MongoDB. Secure with JWT, document API with Swagger, Mongoose ODM  | Done | [nodejs-rest-api-jwt-mongodb](https://www.udemy.com/course/nodejs-rest-api-jwt-security-mongodb-complete-guide)  | [lrn_jwt](https://github.com/kapilkathuria/lrn_jwt) | Good Course. Good one to start with |
 | Nodejs api | entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver), Server-side website rendering with Pug | WIP | [nodejs-express-mongodb](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp) | [lrn_nodejs-api](https://github.com/kapilkathuria/lrn_nodejs-api) | this is expected to be more detailed than above. this can be done only if needed after above is done|
