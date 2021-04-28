@@ -3,7 +3,8 @@ details of al courses done
 
 | Category| Course | Status | URL | github link | Comment | 
 |--- |--- |--- |--- |--- |--- |
-| RASA deployment | WIP| [Deploy RASA Chatbot](https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour) | [lrn_rasa_deployment](https://github.com/kapilkathuria/lrn_rasa_deployment) | | 
+| RASA | WIP| [rasa-certification-workshop](https://www.udemy.com/course/rasa-certification-workshop) | [lrn_rasa](https://github.com/kapilkathuria/lrn_rasa) | | 
+| RASA deployment | Done | [Deploy RASA Chatbot](https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour) | [lrn_rasa_deployment](https://github.com/kapilkathuria/lrn_rasa_deployment) | | 
 | Machine Learning | Knowledge modelling | WIP| [practical-knowledge-modelling](https://www.udemy.com/course/practical-knowledge-modelling) | [lrn_ontology_modelling](https://github.com/kapilkathuria/lrn_ontology_modelling) | | 
 |Machine Learning| H2O | Done | | [lrn_h2o](https://github.com/kapilkathuria/lrn_h2o) | |
 | Machine Learning  | Text Mining | Done | [python-text-mining](https://www.coursera.org/learn/python-text-mining) | [lrn_textmining](https://github.com/kapilkathuria/lrn_textmining)||
